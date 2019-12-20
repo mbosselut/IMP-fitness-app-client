@@ -15,15 +15,6 @@ This project in one week as a group project.
 
 - The backend repository can be found [here](https://github.com/mbosselut/IMP-fitness-app-server). 
 
-### CHANGELOG.md
-
-- Now you can find it [there](https://github.com/Official-Codaisseur-Graduate/my-imp-trainer/blob/development/CHANGELOG.md), don't forget to update!
-
-### A lot of things to work on!
-
-- Feel free to fix [bugs](https://github.com/Official-Codaisseur-Graduate/my-imp-trainer/issues)
-- Or [improve](https://github.com/Official-Codaisseur-Graduate/my-imp-trainer/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement) the app if you have time
-
 ## Getting Started
 
 Step-by-step instructions to get you up and running!
@@ -79,7 +70,7 @@ Check the workoutpage for specific workout related information:
 ![Workout 2 screenshot](/src/images/workout-page2.png)
 
 ## Contributors : 
-Manon Bosselut
-Eslam Haridy
-Hakan Kemal
-Alexandra Pavlushina
+- Manon Bosselut
+- Eslam Haridy
+- Hakan Kemal
+- Alexandra Pavlushina

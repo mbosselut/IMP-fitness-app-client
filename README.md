@@ -1,7 +1,7 @@
 ### README
 
-This is a Fitness App which provides users with workout plans, help them to track their diet with active life style.
-This project was created by Codaisseur students in week 9 to experience working on a Real World Project.
+Mock-up of a mobile fitness App which provides users with workout plans.
+This project in one week as a group project.
 
 ## Table of contents:
 
@@ -13,7 +13,7 @@ This project was created by Codaisseur students in week 9 to experience working 
 
 - The Frontend of this project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), [Material-UI](https://material-ui.com/) and [Redux](https://redux.js.org/introduction/getting-started).
 
-- The Backend you can find [here](https://github.com/Official-Codaisseur-Graduate/my-imp-trainer-server). with its own Readme file.
+- The backend repository can be found [here](https://github.com/mbosselut/IMP-fitness-app-server). 
 
 ### CHANGELOG.md
 
@@ -77,3 +77,9 @@ Check the workoutpage for specific workout related information:
 ![Workout 1 screenshot](/src/images/workout-page1.png)
 
 ![Workout 2 screenshot](/src/images/workout-page2.png)
+
+## Contributors : 
+Manon Bosselut
+Eslam Haridy
+Hakan Kemal
+Alexandra Pavlushina
